@@ -33,14 +33,13 @@ The goal was to practice:
 
 ## 📁 Dataset
 - Format: `.db` SQLite file (uploaded to Kaggle)
-- ⚠️ This is a mock dataset created purely for learning and practice.
+- ⚠️ This is a mock dataset created purely for my learning and practice. I do not own it.
 - Not affiliated with or sourced directly from IMDb.
 
 ---
 
-## 📎 Links
-- 🔗 [View Notebook on Kaggle](# *(https://www.kaggle.com/code/tanishthaghosh365/analyzing-imdb-movie-data-with-sql)*
-- 🔗 [View Dataset on Kaggle](#) *(https://www.kaggle.com/datasets/tanishthaghosh365/imdb-sql-project/settings?inquiry-id=inq_aa7maMw2Wr7MoYfZkcyPANH4rTVS&reference-id=27690116&subject=27690116&status=approved&fields%5Bname-first%5D%5Btype%5D=string&fields%5Bname-first%5D%5Bvalue%5D=&fields%5Bname-middle%5D%5Btype%5D=string&fields%5Bname-middle%5D%5Bvalue%5D=&fields%5Bname-last%5D%5Btype%5D=string&fields%5Bname-last%5D%5Bvalue%5D=&fields%5Baddress-street-1%5D%5Btype%5D=string&fields%5Baddress-street-1%5D%5Bvalue%5D=&fields%5Baddress-street-2%5D%5Btype%5D=string&fields%5Baddress-street-2%5D%5Bvalue%5D=&fields%5Baddress-city%5D%5Btype%5D=string&fields%5Baddress-city%5D%5Bvalue%5D=&fields%5Baddress-subdivision%5D%5Btype%5D=string&fields%5Baddress-subdivision%5D%5Bvalue%5D=&fields%5Baddress-postal-code%5D%5Btype%5D=string&fields%5Baddress-postal-code%5D%5Bvalue%5D=&fields%5Baddress-country-code%5D%5Btype%5D=string&fields%5Baddress-country-code%5D%5Bvalue%5D=&fields%5Bbirthdate%5D%5Btype%5D=date&fields%5Bbirthdate%5D%5Bvalue%5D=&fields%5Bemail-address%5D%5Btype%5D=string&fields%5Bemail-address%5D%5Bvalue%5D=&fields%5Bphone-number%5D%5Btype%5D=string&fields%5Bphone-number%5D%5Bvalue%5D=%2B916380889262&fields%5Bidentification-number%5D%5Btype%5D=string&fields%5Bidentification-number%5D%5Bvalue%5D=&fields%5Bidentification-class%5D%5Btype%5D=string&fields%5Bidentification-class%5D%5Bvalue%5D=&fields%5Bselected-country-code%5D%5Btype%5D=string&fields%5Bselected-country-code%5D%5Bvalue%5D=IN&fields%5Bphone%5D%5Btype%5D=string&fields%5Bphone%5D%5Bvalue%5D=)*
+> ## 📎 Links
+- 🔗 https://www.kaggle.com/code/tanishthaghosh365/analyzing-imdb-movie-data-with-sql
 
 ---
 
