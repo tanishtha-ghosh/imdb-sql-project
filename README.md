@@ -39,7 +39,7 @@ The goal was to practice:
 ---
 
 > ## 📎 Links
-- 🔗 https://www.kaggle.com/code/tanishthaghosh365/analyzing-imdb-movie-data-with-sql
+- 🔗https://www.kaggle.com/code/tanishthaghosh365/analyzing-imdb-movie-data-with-sql
 
 ---
 
