@@ -1,8 +1,8 @@
-# 🎬 IMDb SQL Mini Project
+# IMDb SQL Mini Project
 
 This project analyzes an IMDb-style movie database using SQL concepts in a Kaggle Notebook.
 
-## 📌 Project Overview
+## Project Overview
 Using a mock SQLite `.db` file uploaded to Kaggle, I performed SQL queries to uncover insights from three interconnected tables:
 - `movies`
 - `ratings`
@@ -15,35 +15,35 @@ The goal was to practice:
 
 ---
 
-## 🔍 Key Analyses Performed
-- 🎖️ Top 3 rated movies per genre (`RANK()` + `PARTITION BY`)
-- 🧮 Average movie rating per decade
-- 🗳️ Most voted movie each year
-- 🔗 Merging movie details with ratings and genres using `JOIN`s
-- 🏷️ Most common and highest-rated genres
+## Key Analyses Performed
+-  Top 3 rated movies per genre (`RANK()` + `PARTITION BY`)
+- Average movie rating per decade
+- Most voted movie each year
+- Merging movie details with ratings and genres using `JOIN`s
+- Most common and highest-rated genres
 
 ---
 
-## 🛠️ Tech Used
+##  Tech Used
 - SQL (SQLite syntax)
 - Python (Pandas, SQLite3)
 - Kaggle Notebooks
 
 ---
 
-## 📁 Dataset
+##  Dataset
 - Format: `.db` SQLite file (uploaded to Kaggle)
 - ⚠️ This is a mock dataset created purely for my learning and practice. I do not own it.
 - Not affiliated with or sourced directly from IMDb.
 
 ---
 
-> ## 📎 Links
-- 🔗https://www.kaggle.com/code/tanishthaghosh365/analyzing-imdb-movie-data-with-sql
+> ## Links
+- https://www.kaggle.com/code/tanishthaghosh365/analyzing-imdb-movie-data-with-sql
 
 ---
 
-## 🧠 Learnings
+## Learnings
 This project helped me strengthen my skills with:
 - Window functions like `RANK()`
 - Writing clean, efficient SQL queries
@@ -51,4 +51,3 @@ This project helped me strengthen my skills with:
 
 ---
 
-> 💬 Feel free to fork the notebook or suggest improvements!
